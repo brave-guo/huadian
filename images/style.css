@@ -1,0 +1,62 @@
+/* CSS Document */
+#cover1
+{
+	background-color:gray;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:999;
+	filter:alpha(opacity:90);
+	opacity:0.9!important;
+}
+#cover2
+{
+	position:absolute;
+	border:1px solid  gray;
+	background:url(login_bg.gif) no-repeat;
+	width:371px;
+	height:250px;
+	padding-top:40px;
+	background-color:#FFFFFF;
+	font-size:12px;
+	left:400px;
+	top:150px;
+}
+#cover2 span
+{
+	position:absolute;
+	left:40px;
+	top:4px;
+	font-size:14px;
+	font-weight:bold;
+}
+#cover2  .close
+{
+	position:absolute;
+	right:5px;
+	top:3px;
+}
+#cover2  div
+{
+	width:100%;
+	height:auto;
+	margin-top:10px;
+}
+#cover2 label
+{
+	width:120px;
+	height:auto;
+	text-align:right;
+	padding-left:30px;
+}
+.inp
+{
+	width:150px;
+	height:auto;
+}
+#cover2 .btn
+{
+	width:150px;
+	height:40px;
+	
+}
